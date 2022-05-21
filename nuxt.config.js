@@ -1,4 +1,4 @@
-const url = 'https://nuxt-blog-starter.netlify.app';
+const url = 'https://myblogtest1.github.io';
 
 export default {
 	head                : {
