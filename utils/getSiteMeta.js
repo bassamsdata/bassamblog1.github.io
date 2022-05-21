@@ -1,9 +1,9 @@
 const type = 'website';
-const url = 'https://nuxt-blog-starter.netlify.app'; // CHANGE ME!
-const title = 'Connor Rothschild'; // CHANGE ME!
-const description = 'Connor Rothschild is a data scientist, web developer, and designer based in Houston Texas.'; // CHANGE ME!
+const url = 'https://bassamblogtest1.netlify.app/'; // CHANGE ME!
+const title = 'Bassam Saleh'; // CHANGE ME!
+const description = 'Bassam Saleh is a data analyst, and information designer based in Montreal, Canada.'; // CHANGE ME!
 const mainImage = `${url}/social.png`;
-const twitterSite = '@CL_Rothschild'; // CHANGE ME!
+const twitterSite = '@bassamstreet'; // CHANGE ME!
 const twitterCard = 'summary_large_image';
 
 export default (meta) => {
