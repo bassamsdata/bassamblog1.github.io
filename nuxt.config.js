@@ -1,4 +1,4 @@
-const url = 'https://bassamblogtest1.netlify.app';
+const url = 'https://bassamblogtest1.netlify.app/';
 
 export default {
 	head                : {
